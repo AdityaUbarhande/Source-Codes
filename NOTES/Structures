@@ -1,0 +1,39 @@
+Structures Notes: (copyright reserved At A Glimpse)   
+
+1] Structures are just a group of variables which have different data types.    
+
+ 2] The two similarities between arrays and structures are:   
+
+       a. They can store many values   
+
+        b. They have consecutive memory addresses.   
+
+3] The differences between arrays and structures are:  
+Arrays create separate memory sections whereas structures have different variables. (Refer refer point (7) for brief explanation)  
+
+  
+4] To define a variable of a structure in C, you will have to follow this format:    
+-> struct (name of structure) (name of variable)   
+
+ 5] To access the elements of a structure, you will have to follow this:   
+-> (name of variable).(name of variable to be accessed)   
+
+ 6] Structures are used in embedded systems to make virtual memory maps.  
+
+ 7] Brief Explanation:
+ See, structures are just a group of variables, but arrays are a group of values. 
+ There is only 1 variable of array but there are many variables in a structure. 
+ The 1 variable of the array has different memory sections of consecutive addresses but the structures have different variables with consecutive memory addresses.  
+
+MORE IN UPCOMING VIDEOS!!  
+
+The Team works hard for making videos. Please appreciate the effort by liking the videos. 
+Also, if you have any suggestions about the videos or want us to make some video, please send a email (email-id given below) or comment.
+
+If you have any doubts post them on AtAGlimpseYT@gmail.com and we will answer as soon as possible.    
+
+   
+
+Regards,   
+
+TEAM At A Glimpse.

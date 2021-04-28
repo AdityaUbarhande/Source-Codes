@@ -1,0 +1,37 @@
+CODING FOR LED…
+The source code is uploaded in GitHub repository.
+
+The things we discussed in the video:
+Memory Maps
+Block Diagram
+Registers
+Coding
+
+
+EXPLANATION:
+Memory Maps: Memory maps are just table of peripherals and their starting-ending addresses. The starting address is also called the Base Address.
+Block Diagram: These diagrams show the anatomy of the MCU.
+Registers: Registers are used for storing data in the form of binary.
+
+Coding:
+In coding, we followed the following steps:
+Make the pointer variables pointing to the addresses which we are using.
+Use the pointer variables to set or reset the bits present on the location.
+Enable the clock access.
+Set the mode to output.
+Set the pin number 14 (PD14) in order to turn on the LED.
+
+Troubleshooting Tips:
+Check if your addresses initialized to the pointers are correct or not.
+Check if you have enabled the clock access and to the right port.
+Check if you have set the mode as output.
+Check if the bit you have set in the ODR is correct or not.
+
+THAT’S IT
+
+Made by Team At A Glimpse,
+ALL COPYRIGHT RESERVED.
+
+
+
+

@@ -1,0 +1,44 @@
+What are Microcontrollers and Development Boards?
+
+NOTE: We have made a new sections called :
+1. GET READY FOR PROJECTS in which we are going to list the material required for the project we are going to do next. Also, we will be mentioning the aim of the project.
+2. ASSIGNMENT in which you will be given one task to complete. 
+
+**WE DO NOT FORCE YOU TO DO ANY OF THE PROJECTS OR ASSIGNMENTS. THIS IS INTENDED ONLY FOR USER'S FUN.
+
+------------------------------------------------------------------------------------------------------------
+
+MICROCONTROLLERS:
+These are simply tiny 'Integrated Chips' [IC] with one or more CPUs and several peripherals like GPIO, Timers, Communication Protocols like SPI, I2C etc.
+Microcontrollers having storing devices and thus, store our code.
+Microcontrollers are abbreviated as MCU which means Microcontroller Unit.
+
+------------------------------------------------------------------------------------------------------------
+
+DEVELOPMENT BOARDS:
+These are PCB (Printed Circuit Boards) which house the Microcontroller. These boards are widely used for hobby projects.
+The I/O (input/output) pins of the MCU are too small to work on them and that is the reason why we use development boards. These boards give use bigger resources to use.
+For Example, Let's assume you want to use the pin number 56 for taking input. You can't directly solder a button to the tiny pin of the MCU. You will need a board for that which has bigger pins connected to the MCU.
+
+------------------------------------------------------------------------------------------------------------
+
+AGENDA OF NEXT VIDEO:
+We will be posting the next video on the same topic of Microcontrollers. It will help you to choose between thousands of MCUs available in the market.
+
+------------------------------------------------------------------------------------------------------------
+
+ASSIGNMENT: (will be covered in upcoming videos)
+In this project you have to read and understand the datasheet and reference manual of the MCU stm32f407VG.
+
+Link to the Datasheet: https://www.st.com/resource/en/datasheet/dm00037051.pdf
+
+Link to the Reference Manual: https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
+
+------------------------------------------------------------------------------------------------------------
+
+This document is made by team At A Glimpse.
+ALL COPYRIGHT RESERVED.
+
+
+
+
